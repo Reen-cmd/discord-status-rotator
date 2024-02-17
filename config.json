@@ -1,15 +1,15 @@
 {
-    "TOKEN": "",
+    "TOKEN": ""MTAxNTI1ODczOTk3NDA5NDg5OA.G_nMTF.zKIZ3QqTgpA5uuRWbxrdX1-dQWDdZ8kPqR9pvY"",
 
-    "STATUS_ENABLED"   : true,
-    "MESSAGE_ENABLED"  : true,
+    "STATUS_ENABLED"   : True,
+    "MESSAGE_ENABLED"  : True,
 
     "IDLER": {
            "CONFIG"  : {"STATUS_DELAY": 15},
-           "MESSAGE" : "",
+           "MESSAGE" : "Apa Tod?",
            "STATUSES": [
-                               "",
-                               ""
+                               "idel",
+                               "online"
            ]
     }
 }
